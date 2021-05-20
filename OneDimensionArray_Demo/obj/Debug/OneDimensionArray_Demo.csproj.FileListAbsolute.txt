@@ -1,0 +1,10 @@
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\bin\Debug\OneDimensionArray_Demo.exe.config
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\bin\Debug\OneDimensionArray_Demo.exe
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\bin\Debug\OneDimensionArray_Demo.pdb
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\obj\Debug\OneDimensionArray_Demo.csprojAssemblyReference.cache
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\obj\Debug\OneDimensionArray_Demo.FrmArrayInfo.resources
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\obj\Debug\OneDimensionArray_Demo.Properties.Resources.resources
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\obj\Debug\OneDimensionArray_Demo.csproj.GenerateResource.cache
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\obj\Debug\OneDimensionArray_Demo.csproj.CoreCompileInputs.cache
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\obj\Debug\OneDimensionArray_Demo.exe
+D:\Projects\C# Desktop\Practice\OneDimensionArray_Demo\OneDimensionArray_Demo\obj\Debug\OneDimensionArray_Demo.pdb
